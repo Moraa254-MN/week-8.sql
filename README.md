@@ -42,9 +42,6 @@ USE library_db;
 - `library_management.sql` – SQL file with all table definitions and constraints
 - `README.md` – Project overview and setup instructions
 
-##  Author
-
-Mercy Nyabuto – Diploma in ICT, Kabete National Polytechnic
 
 ---
 
